@@ -17,7 +17,7 @@ Para preparar os dados, segui uma série de passos documentados em scripts Pytho
 
 ## Como Replicar o Processo
 
-Para recriar os arquivos `.csv` processados, é necessário rodar os scripts na ordem em que foram apresentados. No entanto, para obter os dados de forma rápida e conectá-los diretamente ao Power BI, você pode utilizar o arquivo `.db` já fornecido.
+Para recriar demais arquivos `.csv` processados, é necessário rodar os scripts na ordem em que foram apresentados. No entanto, para obter os dados de forma rápida e conectá-los diretamente ao Power BI, você pode utilizar o arquivo `.db` já fornecido ou os dois arquivos `EXP_dados_unificados.csv` e `IMP_dados_unificados.csv`.
 
 ### Requisitos
 
