@@ -32,7 +32,7 @@ Para rodar este projeto e se conectar ao banco de dados, você precisará dos se
 
 ## Dashboard de Análise
 
-O arquivo do dashboard (`.pbix`) desenvolvido no Power BI se encontra dentro do projeto. Para visualizá-lo, basta abrir o arquivo no Power BI Desktop.
+O arquivo do dashboard (`desafio.pbix`) desenvolvido no Power BI se encontra dentro do projeto na pasta dashboard. Para visualizá-lo, basta abrir o arquivo no Power BI Desktop.
 
 O dashboard foi projetado para responder às seguintes perguntas:
 
