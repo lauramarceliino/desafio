@@ -1,4 +1,3 @@
-```markdown
 # Processamento e Análise de Dados de Comércio Exterior
 
 Este repositório contém os scripts utilizados para processar, limpar e armazenar dados de importação e exportação referentes aos anos de 2020 e 2021. O objetivo final é fornecer um banco de dados otimizado para a criação de um dashboard interativo no Power BI.
@@ -41,3 +40,4 @@ O dashboard foi projetado para responder às seguintes perguntas:
 * Quais são os **top 3 produtos mais importados por estado** nos anos de 2020 e 2021?
 * Quais são os **top 3 produtos exportados em cada mês de 2021 por estado**?
 ```
+
